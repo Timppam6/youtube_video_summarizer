@@ -2,8 +2,6 @@
 
 A powerful web application that uses AI to generate intelligent summaries of any YouTube video. Built with vanilla HTML, CSS, and JavaScript for maximum compatibility and ease of use.
 
-![YouTube Video Summarizer Demo](https://via.placeholder.com/800x400/FF0000/FFFFFF?text=YouTube+Video+Summarizer)
-
 ## ✨ Features
 
 ### 🎯 **Core Functionality**
